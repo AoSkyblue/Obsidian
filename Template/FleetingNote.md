@@ -1,6 +1,6 @@
 <%*
-const fileName = tp.date.now("YYYY-MM-DD-HH-mm-ss");
-const targetDir = "Zettelkasten/PermanentNote";
+const fileName = tp.date.now("YYYY-MM-DD_HH-mm-ss");
+const targetDir = "Zettelkasten/";
 const targetPath = `${targetDir}/${fileName}`;
 await tp.file.move(targetPath);
 _%>
