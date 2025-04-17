@@ -104,15 +104,15 @@ info
 
 参考までに、 **ネットワーク上で非機能要件を向上させるための主なAWSサービス** を列挙します。
 
-| サービス名 | 該当する非機能要件 | 概要 |
-| --- | --- | --- |
-| [**ELB**](https://aws.amazon.com/jp/elasticloadbalancing/) | 1.可用性,   2.性能・拡張性 | ロードバランサによる過負荷防止 |
-| [**Cloud Front**](https://aws.amazon.com/jp/cloudfront/) | 1.可用性,   2.性能・拡張性 | CDNによるアクセス速度向上と過負荷防止 |
-| [**Route 53**](https://aws.amazon.com/jp/cloudfront/) | 1.可用性,   2.性能・拡張性,   5.セキュリティ | ヘルスチェックによる可用性向上、DNSラウンドロビンによる拡張性向上、DNSファイアウォールによるセキュリティ向上 |
-| [**Network Firewall**](https://aws.amazon.com/jp/network-firewall/) | 5\. セキュリティ | サブネットに対するアクセスルールを設定する |
-| [**WAF**](https://aws.amazon.com/jp/waf/) | 5\. セキュリティ | Webアプリに対する一般的な攻撃パターンをブロックする |
-| [**Direct Connect**](https://aws.amazon.com/jp/waf/) | 5\. セキュリティ | 専用線接続によるセキュリティ向上 |
-| (おまけ:[AWSと環境負荷](https://aws.taf-jp.com/blog/50636) ) | 6\. システム環境・エコロジー | AWS等の大規模クラウドプロバイダは世界平均よりも炭素強度が28%低い電源構成を使用しているとの事 |
+| サービス名                                                               | 該当する非機能要件                     | 概要                                                        |     |
+| ------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------------- | --- |
+| [**ELB**](https://aws.amazon.com/jp/elasticloadbalancing/)          | 1.可用性,   2.性能・拡張性             | ロードバランサによる過負荷防止                                           |     |
+| [**Cloud Front**](https://aws.amazon.com/jp/cloudfront/)            | 1.可用性,   2.性能・拡張性             | CDNによるアクセス速度向上と過負荷防止                                      |     |
+| [**Route 53**](https://aws.amazon.com/jp/cloudfront/)               | 1.可用性,   2.性能・拡張性,   5.セキュリティ | ヘルスチェックによる可用性向上、DNSラウンドロビンによる拡張性向上、DNSファイアウォールによるセキュリティ向上 |     |
+| [**Network Firewall**](https://aws.amazon.com/jp/network-firewall/) | 5\. セキュリティ                    | サブネットに対するアクセスルールを設定する                                     |     |
+| [**WAF**](https://aws.amazon.com/jp/waf/)                           | 5\. セキュリティ                    | Webアプリに対する一般的な攻撃パターンをブロックする                               |     |
+| [**Direct Connect**](https://aws.amazon.com/jp/waf/)                | 5\. セキュリティ                    | 専用線接続によるセキュリティ向上                                          |     |
+| (おまけ:[AWSと環境負荷](https://aws.taf-jp.com/blog/50636) )                | 6\. システム環境・エコロジー              | AWS等の大規模クラウドプロバイダは世界平均よりも炭素強度が28%低い電源構成を使用しているとの事         |     |
 
 これらのサービスは [後述のVPC機能紹介](https://qiita.com/c60evaporator/items/2f24d4796202e8b06a77#vpc%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A8%E4%B8%BB%E8%A6%81%E6%A9%9F%E8%83%BD) で頻繁に登場する事から分かるように、基本的に **VPCと連動した動作** が前提となっています。
 
