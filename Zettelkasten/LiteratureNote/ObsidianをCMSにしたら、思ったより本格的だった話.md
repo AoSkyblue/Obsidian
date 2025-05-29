@@ -1,3 +1,16 @@
+---
+title: "ObsidianをCMSにしたら、思ったより本格的だった話"
+source: "https://qiita.com/nasubi_dev/items/2237101b170f7327e4a0?utm_source=Qiita+%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=d49576d75a-Qiita_newsletter_672_05_28_2025&utm_medium=email&utm_term=0_e44feaa081-d49576d75a-46857630&mc_cid=d49576d75a&mc_eid=999cbb1e77"
+author:
+  - "[[nasubi_dev]]"
+published: 2025-05-20
+created: 2025-05-29
+description: "あらすじはじめまして､なすび(@nasubi_dev)です｡最近､Obsidian + Cursorの組み合わせが流行していますよね｡AIによる活用も斬新で面白いとは思っているのですが､Obs…"
+tags:
+  - "clippings"
+image: "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzI0MjU1MiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTczNTMxNTE2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1hNTMyOTEzNDc1ZDMzZWRjOTk4Y2U4NzI5NDIyZjc4Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8b3105d2547e5c65f2dde83b8c464b26?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9T2JzaWRpYW4lRTMlODIlOTJDTVMlRTMlODElQUIlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTYlODAlOUQlRTMlODElQTMlRTMlODElOUYlRTMlODIlODglRTMlODIlOEElRTYlOUMlQUMlRTYlQTAlQkMlRTclOUElODQlRTMlODElQTAlRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kYjBjZTk0Yzg5MmFjYjQyYWYxYzdhM2E4Y2VjNmY4OQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBuYXN1YmlfZGV2JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YmQ4NmZkMTBmMjBjYmMxMzEzNDA3MDI1MmFiMWNlOTM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=50705a2ba52aca8d5d33f544a29ce81f"
+PermanentNote:
+---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=735078)
 
 [@nasubi\_dev (なすび)](https://qiita.com/nasubi_dev)
