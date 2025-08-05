@@ -1,1 +1,22 @@
-/.obsidian/
+# node_modules
+
+node_modules/
+
+#ログファイル
+
+*.log
+
+# 画像ファイル
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.svg
+*.ico
+*.psd
+*.ai
