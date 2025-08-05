@@ -15,7 +15,7 @@
   "customImageUrl": "",
   "uploadVideo": true,
   "uploadAudio": true,
-  "uploadPdf": false,
+  "uploadPdf": true,
   "bypassCors": false,
   "queryStringValue": "",
   "queryStringKey": "",
