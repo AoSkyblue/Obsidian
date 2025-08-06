@@ -8,30 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2530b5221029c1e0",
+            "id": "06f48cc449a8c5be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
-                "mode": "preview",
+                "file": "Daily/2025-03-20.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-31_07-52-41"
+              "title": "2025-03-20"
             }
           },
           {
-            "id": "944a4d1a65e1c0fd",
+            "id": "2530b5221029c1e0",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "about:blank",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "New web viewer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ],
@@ -101,7 +98,7 @@
       {
         "id": "64e4e2f913f7146d",
         "type": "tabs",
-        "dimension": 76.01156069364163,
+        "dimension": 59.56375838926175,
         "children": [
           {
             "id": "44aecf502b3ce596",
@@ -174,12 +171,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "cb0938c6f6541d76",
         "type": "tabs",
-        "dimension": 23.98843930635838,
+        "dimension": 40.43624161073826,
         "children": [
           {
             "id": "43166f07f7652747",
@@ -211,19 +208,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "944a4d1a65e1c0fd",
+  "active": "2530b5221029c1e0",
   "lastOpenFiles": [
+    "Daily/2025-03-20.md",
+    "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
+    "Zettelkasten/LiteratureNote/Amazon VPCを「これでもか！」というくらい丁寧に解説.md",
     "Daily/2025-08-07.md",
     "2025-08-07.md",
     "Daily/2025-08-07.md",
     "Zettelkasten/PermanentNote/2025-08-06_13-47-59.md",
-    "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
     "Zettelkasten/LiteratureNote/Model Context Protocol（MCP）とは？生成 AI の可能性を広げる新しい標準.md",
     "Zettelkasten/IndexNote/記事一覧.md",
-    "Zettelkasten/LiteratureNote/Amazon VPCを「これでもか！」というくらい丁寧に解説.md",
     "Zettelkasten/LiteratureNote/AWS Hands-on for Beginners Network編1 AWS上にセキュアなプライベートネットワーク空間を作成する  AWS Webinar.md",
     "Zettelkasten/FleetingNote/2025-08-06_13-50-49 AWS VPC ハンズオン.md",
-    "Daily/2025-03-20.md",
     "Daily/2025-03-18.md",
     "Template/Daily.md",
     "Template/FleetingNote.md",
