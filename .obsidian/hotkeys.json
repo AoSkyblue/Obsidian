@@ -1,1 +1,11 @@
-{}
+{
+  "templater-obsidian:create-Template/PermanentNote.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
