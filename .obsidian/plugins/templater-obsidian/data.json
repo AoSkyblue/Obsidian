@@ -33,8 +33,6 @@
     "Template/FleetingNote.md",
     "Template/Daily.md"
   ],
-  "startup_templates": [
-    ""
-  ],
+  "startup_templates": [],
   "intellisense_render": 1
 }

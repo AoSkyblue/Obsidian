@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82ba0b46345bcb9f",
+        "id": "5781ca4a1c2c1ae3",
         "type": "tabs",
         "children": [
           {
-            "id": "83b518bec9ec6b52",
+            "id": "16d6f135a739adc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/FleetingNote.md",
+                "file": "Zettelkasten/LiteratureNote/ObsidianをCMSにしたら、思ったより本格的だった話.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FleetingNote"
+              "title": "ObsidianをCMSにしたら、思ったより本格的だった話"
             }
           }
         ]
@@ -167,16 +167,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83b518bec9ec6b52",
+  "active": "16d6f135a739adc4",
   "lastOpenFiles": [
-    "Zettelkasten/FeelingNote",
+    "Zettelkasten/LiteratureNote/MacBookを閉じたときにスリープを防ぐ方法 (Monterey対応).md",
+    "Zettelkasten/LiteratureNote/Amazon VPCを「これでもか！」というくらい丁寧に解説.md",
     "Zettelkasten/PermanentNote/2025-08-06_10-47-25.md",
+    "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
+    "Untitled.md",
     "Template/Daily.md",
+    "Template/FleetingNote.md",
+    "Zettelkasten/FeelingNote",
     "Daily/2025-03-20.md",
     "Daily/2025-03-18.md",
-    "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
     "Zettelkasten/PermanentNote/無題のファイル.md",
-    "Zettelkasten/LiteratureNote/Amazon VPCを「これでもか！」というくらい丁寧に解説.md",
     "Zettelkasten/LiteratureNote/AWS サービスがどこにあるのかまとめ.md",
     "Pasted image 20250806070536.png",
     "Pasted image 20250806070531.png",
@@ -185,14 +188,12 @@
     "テスト.md",
     "Welcome.md",
     "Zettelkasten/LiteratureNote/ObsidianをCMSにしたら、思ったより本格的だった話.md",
-    "Zettelkasten/LiteratureNote/MacBookを閉じたときにスリープを防ぐ方法 (Monterey対応).md",
     "Zettelkasten/IndexNote/記事一覧.md",
     "Zettelkasten/PermanentNote",
     "Zettelkasten/LiteratureNote",
     "Zettelkasten/IndexNote",
     "Zettelkasten",
     "Template/PermanentNote.md",
-    "Template/FleetingNote.md",
     "Template",
     "LINE/2025-04-02-554949316578377730.md",
     "LINE/2025-03-30-554559213105053782.md",
