@@ -13,15 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/IndexNote/記事一覧.md",
-                "mode": "source",
+                "file": "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "記事一覧"
+              "title": "2025-03-31_07-52-41"
+            }
+          },
+          {
+            "id": "944a4d1a65e1c0fd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "about:blank",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "New web viewer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,6 +101,7 @@
       {
         "id": "64e4e2f913f7146d",
         "type": "tabs",
+        "dimension": 76.01156069364163,
         "children": [
           {
             "id": "44aecf502b3ce596",
@@ -94,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Dailyへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -150,17 +164,36 @@
             }
           },
           {
-            "id": "43166f07f7652747",
+            "id": "96b72898001fd1d1",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "cb0938c6f6541d76",
+        "type": "tabs",
+        "dimension": 23.98843930635838,
+        "children": [
+          {
+            "id": "43166f07f7652747",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,16 +211,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2530b5221029c1e0",
+  "active": "944a4d1a65e1c0fd",
   "lastOpenFiles": [
-    "Zettelkasten/LiteratureNote/AWS Hands-on for Beginners Network編1 AWS上にセキュアなプライベートネットワーク空間を作成する  AWS Webinar.md",
-    "Zettelkasten/IndexNote/記事一覧.md",
-    "Zettelkasten/FleetingNote/2025-08-06_13-50-49 AWS VPC ハンズオン.md",
     "Daily/2025-08-07.md",
+    "2025-08-07.md",
+    "Daily/2025-08-07.md",
+    "Zettelkasten/PermanentNote/2025-08-06_13-47-59.md",
+    "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
+    "Zettelkasten/LiteratureNote/Model Context Protocol（MCP）とは？生成 AI の可能性を広げる新しい標準.md",
+    "Zettelkasten/IndexNote/記事一覧.md",
+    "Zettelkasten/LiteratureNote/Amazon VPCを「これでもか！」というくらい丁寧に解説.md",
+    "Zettelkasten/LiteratureNote/AWS Hands-on for Beginners Network編1 AWS上にセキュアなプライベートネットワーク空間を作成する  AWS Webinar.md",
+    "Zettelkasten/FleetingNote/2025-08-06_13-50-49 AWS VPC ハンズオン.md",
     "Daily/2025-03-20.md",
     "Daily/2025-03-18.md",
-    "Untitled.md",
-    "2025-08-07.md",
     "Template/Daily.md",
     "Template/FleetingNote.md",
     "Template/PermanentNote.md",
@@ -195,14 +232,10 @@
     "Zettelkasten/FleetingNote/2025-08-07_07-32-47.md",
     "Zettelkasten/LiteratureNote/ObsidianをCMSにしたら、思ったより本格的だった話.md",
     "Zettelkasten/FleetingNote/2025-08-07_07-31-46Dail.md",
-    "Zettelkasten/LiteratureNote/Model Context Protocol（MCP）とは？生成 AI の可能性を広げる新しい標準.md",
-    "Zettelkasten/PermanentNote/2025-08-06_13-47-59.md",
     "Zettelkasten/LiteratureNote/AWS サービスがどこにあるのかまとめ.md",
-    "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
     "Zettelkasten/FleetingNote",
     "Zettelkasten/PermanentNote/2025-08-06_10-47-25.md",
     "Zettelkasten/LiteratureNote/MacBookを閉じたときにスリープを防ぐ方法 (Monterey対応).md",
-    "Zettelkasten/LiteratureNote/Amazon VPCを「これでもか！」というくらい丁寧に解説.md",
     "Zettelkasten/FeelingNote",
     "Zettelkasten/PermanentNote/無題のファイル.md",
     "Pasted image 20250806070536.png",
