@@ -1,5 +1,11 @@
+<%*
+const fileName = tp.date.now("YYYY-MM-DD");
+const targetDir = "Daily";
+const targetPath = `${targetDir}`;
+await tp.file.move(targetPath);
+_%>
 ---
-date: "{{date: YYYY-MM-DD_THH:mm:ss}}"
+createdAt: <% tp.date.now("YYYY-MM-DD_THH:mm:ss") %>
+permanentNote:
 tags:
-  - draft
 ---

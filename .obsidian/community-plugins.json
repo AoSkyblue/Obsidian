@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "s3-image-uploader",
-  "templater-obsidian"
+  "templater-obsidian",
+  "calendar"
 ]
