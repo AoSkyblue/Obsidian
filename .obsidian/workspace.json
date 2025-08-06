@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Daily.md",
+                "file": "Zettelkasten/IndexNote/記事一覧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "記事一覧"
             }
           }
         ]
@@ -180,19 +180,23 @@
   },
   "active": "2530b5221029c1e0",
   "lastOpenFiles": [
-    "Template/FleetingNote.md",
+    "Zettelkasten/LiteratureNote/AWS Hands-on for Beginners Network編1 AWS上にセキュアなプライベートネットワーク空間を作成する  AWS Webinar.md",
+    "Zettelkasten/IndexNote/記事一覧.md",
+    "Zettelkasten/FleetingNote/2025-08-06_13-50-49 AWS VPC ハンズオン.md",
+    "Daily/2025-08-07.md",
+    "Daily/2025-03-20.md",
+    "Daily/2025-03-18.md",
+    "Untitled.md",
+    "2025-08-07.md",
     "Template/Daily.md",
+    "Template/FleetingNote.md",
     "Template/PermanentNote.md",
+    "Daily.md",
+    "Zettelkasten/FleetingNote/2025-08-07_07-32-47.md",
     "Zettelkasten/LiteratureNote/ObsidianをCMSにしたら、思ったより本格的だった話.md",
     "Zettelkasten/FleetingNote/2025-08-07_07-31-46Dail.md",
-    "Daily.md",
-    "Zettelkasten/FleetingNote/2025-08-06_13-50-49 AWS VPC ハンズオン.md",
-    "Daily/2025-03-20.md",
-    "Daily/2025-08-07.md",
-    "Daily/2025-03-18.md",
     "Zettelkasten/LiteratureNote/Model Context Protocol（MCP）とは？生成 AI の可能性を広げる新しい標準.md",
     "Zettelkasten/PermanentNote/2025-08-06_13-47-59.md",
-    "Zettelkasten/LiteratureNote/AWS Hands-on for Beginners Network編1 AWS上にセキュアなプライベートネットワーク空間を作成する  AWS Webinar.md",
     "Zettelkasten/LiteratureNote/AWS サービスがどこにあるのかまとめ.md",
     "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
     "Zettelkasten/FleetingNote",
@@ -207,15 +211,11 @@
     "Pasted image 20250806065937.png",
     "テスト.md",
     "Welcome.md",
-    "Zettelkasten/IndexNote/記事一覧.md",
     "Zettelkasten/PermanentNote",
     "Zettelkasten/LiteratureNote",
     "Zettelkasten/IndexNote",
     "Zettelkasten",
     "Template",
-    "LINE/2025-04-02-554949316578377730.md",
-    "LINE/2025-03-30-554559213105053782.md",
-    "LINE/2025-03-30-554559143042875774.md",
     "LINE",
     "Daily"
   ]

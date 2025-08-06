@@ -2,5 +2,6 @@
   "obsidian-git",
   "s3-image-uploader",
   "templater-obsidian",
-  "calendar"
+  "calendar",
+  "dataview"
 ]
