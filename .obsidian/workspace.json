@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8580325f89f5694",
+        "id": "82ba0b46345bcb9f",
         "type": "tabs",
         "children": [
           {
-            "id": "ed41436296fc2b51",
+            "id": "83b518bec9ec6b52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Daily.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "新規タブ"
             }
           }
         ]
@@ -163,11 +159,14 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ed41436296fc2b51",
+  "active": "83b518bec9ec6b52",
   "lastOpenFiles": [
+    "Zettelkasten/PermanentNote/2025-08-06_10-47-25.md",
+    "Template/Daily.md",
     "Daily/2025-03-20.md",
     "Daily/2025-03-18.md",
     "Zettelkasten/PermanentNote/2025-03-31_07-52-41.md",
@@ -189,7 +188,6 @@
     "Zettelkasten",
     "Template/PermanentNote.md",
     "Template/FleetingNote.md",
-    "Template/Daily.md",
     "Template",
     "LINE/2025-04-02-554949316578377730.md",
     "LINE/2025-03-30-554559213105053782.md",
