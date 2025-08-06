@@ -11,10 +11,14 @@
             "id": "83b518bec9ec6b52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Template/FleetingNote.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "FleetingNote"
             }
           }
         ]
@@ -163,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c61dc2a9fcf7b0cc",
+  "active": "83b518bec9ec6b52",
   "lastOpenFiles": [
     "Zettelkasten/FeelingNote",
     "Zettelkasten/PermanentNote/2025-08-06_10-47-25.md",

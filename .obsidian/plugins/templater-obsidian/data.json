@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Template/PermanentNote.md",
-    "Template/FleetingNote.md"
+    "Template/FleetingNote.md",
+    "Template/Daily.md"
   ],
   "startup_templates": [
     ""

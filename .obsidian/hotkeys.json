@@ -7,5 +7,23 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:create-Template/Daily.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:create-Template/FleetingNote.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }
